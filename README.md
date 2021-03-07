@@ -36,7 +36,7 @@
 
 ## 🙋🏻‍♀️ Contact me
 
-<div align="center" style="margin-bottom:20px;>
+<div align="center" style="margin-bottom:20px;">
     <a href="mailto:jehy0807@gmail.com">
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -44,7 +44,7 @@
     </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Dev%20JiEun%20Dev%20JiEun&fontSize=60&animation=twinkling?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Dev%20JiEun%20GitHub&fontSize=20&animation=twinkling?section=footer)
 
 <!--
 **JiEun-Choi-Dev/JiEun-Choi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
