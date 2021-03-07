@@ -43,10 +43,8 @@
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 </div>
-
-<div>
+<p></p>
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Thank%20You!&fontSize=20&animation=twinkling?section=footer)
-</div>
 
 <!--
 **JiEun-Choi-Dev/JiEun-Choi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
