@@ -13,8 +13,9 @@
 
 </div>
 
-<div align="center">
 ## 🌱 Top Languages
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiEun-Choi-Dev&layout=compact)](https://github.com/JiEun-Choi-Dev)
 
