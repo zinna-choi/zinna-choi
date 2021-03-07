@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Dev%20JiEun's%20GitHub&fontSize=90&animation=scaleIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Dev%20JiEun's%20GitHub&fontSize=120&animation=scaleIn)
 
 <p align="right">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiEun-Choi-Dev2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
@@ -6,6 +6,8 @@
 </p>
 
 ### Hi there 👋
+
+## 😄 Stats
 
 <div id="main" align="center">
     
@@ -43,8 +45,6 @@
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
 
 <!--
 **JiEun-Choi-Dev/JiEun-Choi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
