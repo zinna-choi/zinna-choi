@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Dev%20JiEun%20Dev%20JiEun&fontSize=120&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Zinna%20Choi%20Zinna%20Choi&fontSize=120&animation=twinkling)
 
 <p align="right">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiEun-Choi-Dev2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
@@ -9,7 +9,7 @@
 
 <div id="main" align="center">
     
-[![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiEun-Choi-Dev&count_private=true&theme=dracula)](https://github.com/JiEun-Choi-Dev)
+[![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinna-choi&count_private=true&theme=dracula)](https://github.com/zinna-choi)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiEun-Choi-Dev&layout=compact)](https://github.com/JiEun-Choi-Dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinna-choi&layout=compact)](https://github.com/zinna-choi)
 
 </div>
 
@@ -40,6 +40,12 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
+## 👑 My Trophy
+
+<div align="center" style="margin-bottom:20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=zinna-choi&no-bg=false&margin-w=15&margin-h=15">
+</div>
+
 ## 🙋🏻‍♀️ Contact me
 
 <div align="center" style="margin-bottom:20px;">
@@ -51,7 +57,7 @@
 </div>
 
 <!--
-**JiEun-Choi-Dev/JiEun-Choi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zinna-choi/zinna-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -64,3 +70,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
