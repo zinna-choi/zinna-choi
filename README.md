@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinna-choi&layout=compact)](https://github.com/zinna-choi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinna-choi&layout=compact&count_private=true)](https://github.com/zinna-choi)
 
 </div>
 
