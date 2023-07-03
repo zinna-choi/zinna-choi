@@ -9,7 +9,7 @@
 
 <div id="main" align="center">
     
-[![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinna-choi&count-private=true&theme=dracula)](https://github.com/zinna-choi)
+[![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinna-choi&count_private=true&theme=dracula)](https://github.com/zinna-choi)
 
 </div>
 
